@@ -7,7 +7,6 @@
   const request = new Request(
     'http://localhost:3000/photos', {
       method: 'POST',
-      credentials: 'include',
       headers: {
         'Content-Type': 'application/json',
         'Accept': 'application/json',

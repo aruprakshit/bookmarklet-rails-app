@@ -3,3 +3,4 @@
 # https://www.youtube.com/watch?v=DloHqUfPbJc
 # https://stackoverflow.com/questions/28667256/check-authentication-from-bookmarklet/28667322#28667322
 # https://webpack.js.org/configuration/output/#outputfilename
+# https://medium.com/@Nicholson85/handling-cors-issues-in-your-rails-api-120dfbcb8a24
